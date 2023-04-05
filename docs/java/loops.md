@@ -36,7 +36,7 @@ while (i < 10) {
 4
 :::
 
-<img src="https://raw.githubusercontent.com/Jellyfish4654/juniorjellies/main/docs/assets/break.PNG" style="width:20%;height:20%;"> 
+<img src="https://raw.githubusercontent.com/Jellyfish4654/juniorjellies/main/docs/assets/break.PNG" style="width:50%;height:50%;"> 
 
 ## Continue Statement
 
@@ -60,4 +60,4 @@ while (i < 6) {
 5
 :::
 
-<img src="https://raw.githubusercontent.com/Jellyfish4654/juniorjellies/main/docs/assets/continue.PNG" style="width:20%;height:20%;"> 
+<img src="https://raw.githubusercontent.com/Jellyfish4654/juniorjellies/main/docs/assets/continue.PNG" style="width:50%;height:50%;"> 

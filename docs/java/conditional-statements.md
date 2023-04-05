@@ -27,7 +27,7 @@ if (condition) {
 // next statement
 ```
 
-<img src="https://raw.githubusercontent.com/Jellyfish4654/juniorjellies/main/docs/assets/if-statement.PNG" style="width:20%;height:20%;"> 
+<img src="https://raw.githubusercontent.com/Jellyfish4654/juniorjellies/main/docs/assets/if-statement.PNG" style="width:50%;height:50%;"> 
 
 ## The else Statement
 An `else` statement is executed if the condition of the associated if statement is `false`.
@@ -41,7 +41,7 @@ if (condition) {
 // next statement
 ```
 
-<img src="https://raw.githubusercontent.com/Jellyfish4654/juniorjellies/main/docs/assets/else-statement.PNG" style="width:20%;height:20%;"> 
+<img src="https://raw.githubusercontent.com/Jellyfish4654/juniorjellies/main/docs/assets/else-statement.PNG" style="width:50%;height:50%;"> 
 
 ## The else if Statement
 The body of an `else if` clause is executed if the condition of the associated `if` statement is `false` and the condition of the `else if` clause is `true`.
@@ -54,7 +54,7 @@ if (condition1) {
 }
 ```
 
-<img src="https://raw.githubusercontent.com/Jellyfish4654/juniorjellies/main/docs/assets/else-if-statement.PNG" style="width:20%;height:20%;"> 
+<img src="https://raw.githubusercontent.com/Jellyfish4654/juniorjellies/main/docs/assets/else-if-statement.PNG" style="width:50%;height:50%;"> 
 
 `else if` clauses can be chained. At the end of the chain, an optional `else` clause can be present.
 
