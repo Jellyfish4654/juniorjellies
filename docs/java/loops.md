@@ -11,7 +11,7 @@ while (i <= 10) {
 }
 ```
 
-<img src="https://raw.githubusercontent.com/Jellyfish4654/juniorjellies/main/docs/assets/while.PNG" style="width:90%;height:90%;"> 
+<img src="https://raw.githubusercontent.com/Jellyfish4654/juniorjellies/main/docs/assets/while.PNG" style="width:20%;height:20%;"> 
 
 ## Break Statement
 
@@ -28,7 +28,7 @@ while (i < 10) {
 }
 ```
 
-<img src="https://raw.githubusercontent.com/Jellyfish4654/juniorjellies/main/docs/assets/break.PNG" style="width:90%;height:90%;"> 
+<img src="https://raw.githubusercontent.com/Jellyfish4654/juniorjellies/main/docs/assets/break.PNG" style="width:20%;height:20%;"> 
 
 ## Continue Statement
 
@@ -44,4 +44,4 @@ while (i < 10) {
 }
 ```
 
-<img src="https://raw.githubusercontent.com/Jellyfish4654/juniorjellies/main/docs/assets/continue.PNG" style="width:90%;height:90%;"> 
+<img src="https://raw.githubusercontent.com/Jellyfish4654/juniorjellies/main/docs/assets/continue.PNG" style="width:20%;height:20%;"> 
