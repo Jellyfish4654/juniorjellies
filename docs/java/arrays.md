@@ -33,3 +33,23 @@ class Main{
 1  
 Length: 5
 :::
+
+```java
+class Main {
+    public static void main(String[] args) {
+        String[] textArray = { "I", "love", "Junior", "Jellies!" };
+
+        int i = 0;
+        while (i < 4) {
+            System.out.println(textArray[i] + " ");
+            i++;
+        }
+    }
+}
+```
+::: tip Output:
+I  
+love  
+Junior  
+Jellies!  
+:::

@@ -11,6 +11,20 @@ while (i <= 10) {
 }
 ```
 
+::: detail Output:
+0  
+1  
+2  
+3  
+4
+5
+6
+7
+8
+9
+10
+:::
+
 <img src="https://raw.githubusercontent.com/Jellyfish4654/juniorjellies/main/docs/assets/while.PNG" style="width:50%;height:50%;"> 
 
 ## Break Statement
