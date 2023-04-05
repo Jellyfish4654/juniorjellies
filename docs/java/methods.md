@@ -13,6 +13,19 @@ A method is a block of code that runs when it is called to perform a function. T
 | Math.random() | Returns a pseudorandom number greater than or equal to 0.0 and less than 1.0 | Returns a double |
 | Math.round(x) | Returns x rounded to the closest integer | Returns an int |
 
+```java
+class Main {
+    public static void main(String[] args) {
+        int max = 10;
+        int min = 1;
+        int range = max - min + 1;
+
+        int random = (int) (Math.random() * range) + min;
+        System.out.println(random);
+    }
+}
+```
+
 ## String Methods
 
 | Method | What it does | Notes |
