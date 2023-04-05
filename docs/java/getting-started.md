@@ -2,7 +2,7 @@
 
 Please go to [Replit](https://replit.com/) and create an account. Create a Repl and select Java as the template.
 
-<img src="https://raw.githubusercontent.com/Jellyfish4654/juniorjellies/main/docs/assets/createTemplate.png" style="width:50%;height:50%;"> 
+<img src="https://raw.githubusercontent.com/Jellyfish4654/juniorjellies/main/docs/assets/createTemplate.png" style="width:90%;height:90%;"> 
 
 ## Print Statements
 
@@ -18,7 +18,7 @@ class Main{
 ```
 
 :::tip Note
-Note that you need to end statements with ';' to complete the statement;  
+You need to end statements with ';' to complete the statement;  
 Try it yourself!
 :::
 
@@ -42,9 +42,9 @@ comment multiple lines */
 
 | Type  |  What it does |  Examples |
 |---|---|---|
-| `String` &nbsp; |  Stores text |  "Hello", "Jellies", "E" |
-| `int` |  Stores whole numbers |  1, 100, 7 |
-| `double` &nbsp; |  Stores fractional numbers &nbsp; |  1.5, 135.21, 1.0 |
+| String |  Stores text |  "Hello", "Jellies", "E" |
+| int |  Stores whole numbers |  1, 100, 7 |
+| double |  Stores fractional numbers |  1.5, 135.21, 1.0 |
 
 :::tip Fun Fact:
 There are additional primitive data types, not stated here. They are used to optimize memory use, however, doubles and integers are generally used for calculations.
@@ -93,7 +93,7 @@ public class Main {
 }
 ```
 
-::: details Outcome:
+::: details Output:
 Hello, welcome to Junior Jellies!
 :::
 
@@ -115,9 +115,9 @@ new Scanner(System.in)
 
 | Method  |  What it does |
 |---|---|
-| `nextLine()` &nbsp;  |  Reads a String value from the user |
-| `nextInt()`  |  Reads an int value from the user |
-| `nextDouble` &nbsp;  |  Reads a double value from the user |
+| nextLine() |  Reads a String value from the user |
+| nextInt() |  Reads an int value from the user |
+| nextDouble |  Reads a double value from the user |
 
 ```java
 import java.util.Scanner;  // Import the Scanner class
@@ -138,10 +138,10 @@ Arithmetic operators are used to perform common mathematical operations.
 
 | Operator  |  Name  |  What it does |  Examples |
 |---|---|---|---|
-| `+`  |  Addition  |  Add together two values  |  x + y |
-| `-`  |  Subtraction |  Subtracts one value from another  |  x - y  |
-| `*`  |  Multiplication &nbsp;  |  Multiplies two values  |  x * y |
-| `/`  |  Division |  Divides one value by another  |  x / y |
-| `%`  |  Modulus |  Returns the division remainder  |  x % y |
-| `++` |  Increment |  Increases the value of a variable by 1  |  x++ |
-| `--`  |  Decrement |  Decreases the value of a variable by 1 &nbsp;  |  x\-\- |
+| + |  Addition  |  Add together two values  |  x + y |
+| - |  Subtraction |  Subtracts one value from another  |  x - y  |
+| * |  Multiplication |  Multiplies two values  |  x * y |
+| / |  Division |  Divides one value by another  |  x / y |
+| % |  Modulus |  Returns the division remainder  |  x % y |
+| ++ |  Increment |  Increases the value of a variable by 1  |  x++ |
+| -- |  Decrement |  Decreases the value of a variable by 1 |  x\-\- |
