@@ -27,7 +27,11 @@ Output:
 I love junior Jellies! //User input
 !seilleJ roinuj evol I
 ```
-> Hint: Look back to day 3 for String Methods
+
+::: detail Hint:
+Look back to day 3 for String Methods
+:::
+
 4. Write a program that prompts the user to enter a word.  The program should output whether or not the word is a palindrome.  A palindrome is a word that spelled the same forwards and backwards.  For example `dad` and `racecar` are palindromes.  Your program should allow for differences in capitalization.  For example, `Level` should be considered a palindrome.  
 Output 1:
 ```
@@ -35,6 +39,7 @@ Please enter a word.
 java //User input
 java is not a palindrome.
 ```
+Output 2:
 ```
 Please enter a word.
 Kayak (user)
