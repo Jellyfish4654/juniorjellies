@@ -9,7 +9,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: nav(),
     sidebar: {
-      '/java/': sidebarJava()
+      '/java/': sidebarJava(),
+      '/': sidebarJava()
     },
 
   }
