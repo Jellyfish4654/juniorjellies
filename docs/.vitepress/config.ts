@@ -10,7 +10,7 @@ export default defineConfig({
     nav: nav(),
     sidebar: {
       '/java/': sidebarJava(),
-      '/': sidebarJava()
+      '': sidebarJava()
     },
 
   }
