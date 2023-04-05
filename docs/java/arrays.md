@@ -1,10 +1,10 @@
 # Arrays
 Arrays are a fundamental data structure in Java that enable you to store multiple values of the same data type in a single variable. This provides a more efficient and organized approach to managing data than declaring separate variables for each value.
 
-To create an array in Java, you can use the following syntax:
+To create an array in Java, you can use the following syntax:  
 `data_type[] array_name = new data_type[array_length];`
 
-You can also initialize an array with values using the following syntax:
+You can also initialize an array with values using the following syntax:  
 `data_type[] array_name = {value1, value2, ..., valueN};`
 
 Each element in the array is identified by its index, which starts at 0 and increments by 1 for each subsequent element. The index is used for assigning values to the array elements and accessing them.  
@@ -29,7 +29,7 @@ class Main{
 ```
 
 ::: tip Output:
-5
-1
+5  
+1  
 Length: 5
 :::

@@ -18,7 +18,7 @@ class Main{
 ```
 
 :::tip Note
-You need to end statements with ';' to complete the statement;  
+You need to end statements with `;` to complete the statement;  
 Try it yourself!
 :::
 
@@ -54,7 +54,7 @@ There are additional primitive data types, not stated here. They are used to opt
 
 `Variables` are containers for storing data types.
 
-*Syntax Convention:*
+**Syntax Convention:**
 Variable names should be camelCase
 - Capitalize each word except for the first word
 - Data type variableName = value;
