@@ -28,7 +28,16 @@ function sidebarJava() {
       text: 'Java Lessons',
       collapsed: false,
       items: [
-        { text: 'Getting Started', link: '/java/getting-started' }
+        {
+          text: 'Getting Started',
+          link: '/java/getting-started',
+          items: [
+            {
+              text: 'Day 1 Exercises',
+              link: '/java/d1-exercises',
+            }
+          ]
+        }
       ]
     },
   ]
