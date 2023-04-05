@@ -24,7 +24,8 @@ Output:
 3. Write a program that prompts the user to input a sentence. The program should reverse the sentence.  
 Output:
 ```
-I love junior Jellies! //User input
+Please enter a sentence.
+I love junior Jellies! // User input
 !seilleJ roinuj evol I
 ```
 
@@ -36,7 +37,7 @@ Look back to day 3 for String Methods
 Output 1:
 ```
 Please enter a word.
-java //User input
+java // User input
 java is not a palindrome.
 ```
 Output 2:
@@ -49,10 +50,10 @@ Kayak is a palindrome.
 Output:
 ```
 Enter “rock”, “paper”, or “scissor”
-scissor //user input
+scissor // user input
 Both players selected scissors. It’s a tie!
 Enter “rock”, “paper”, or “scissor”
-rock //user input
+rock // user input
 Rock smashes scissors! You win!"
 ```
 6. Create a number guessing game where the user has to guess a random number between 1 and 100. The game should tell the user if their guess is too high or too low, and keep track of the number of tries it takes for the user to guess the correct number.  

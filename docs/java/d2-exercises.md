@@ -4,14 +4,14 @@
 Output:
 ```
 Enter 3 integers.
-17 6 67 //User input
-6 17 67 //Output
+17 6 67 // User input
+6 17 67
 ```
 2. Write a program that prompts the user to input a sentence. The program should output the sentence in uppercase.  
 Output:
 ```
 Enter a sentence.
-I love junior jellies java! //User input
+I love junior jellies java! // User input
 I LOVE JUNIOR JELLIES JAVA!
 ```
 1. Write a program that simulates rolling 4 dice.  The program should output 4 integers, each randomly generated 1-6.  
@@ -23,20 +23,20 @@ Output:
 Output:
 ```
 5 + 7
-12 //User input
+12 // User input
 The correct answer is 12.
 ```
 1. Write a program that randomly generates subtraction problems.  The program should randomly generate 2 2-digit numbers and prompt the user to subtract the numbers.  Two-digit numbers are from 10 to 99, so [10,100).  Make sure the answers are non-negative.  
 Output:
 ```
 85 – 36
-49 //User input
+49 // User input
 The correct answer is 49.
 ```
 1. Write a program that generates random addition problems.  The program should generate two 2-digit integers to be added.  The program should ensure that there is no carrying involved in any of the addition problems.  
 Output:
 ```
 45 + 31            	
-78 //User input
+78 // User input
 The correct answer is 76.
 ```
