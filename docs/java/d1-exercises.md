@@ -27,7 +27,9 @@ Enter an integer with 3 digits.
 123 //User input
 321
 ```
-> Hint: Use the / and % operators to reverse the order of the digits.
+::: detail Hint:
+Use the / and % operators to reverse the order of the digits.
+:::
 
 4. Write a program that prompts the user to enter the length and width of a rectangle as integers.  The program should output the perimeter and area of the rectangle.  
 Output:

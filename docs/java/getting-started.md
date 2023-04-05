@@ -93,7 +93,7 @@ public class Main {
 }
 ```
 
-::: details Output:
+::: tip Output:
 Hello, welcome to Junior Jellies!
 :::
 
