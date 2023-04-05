@@ -47,6 +47,7 @@ class Main {
     }
 }
 ```
+
 ::: tip Output:
 I  
 love  
