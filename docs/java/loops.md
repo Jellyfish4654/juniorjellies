@@ -4,55 +4,44 @@
 A `while` loop repeatedly executes a set of statements until a given condition becomes `false`.
 
 ```java
-while (condition) {
-    // body, continues to be executed until condition false
+int i = 0;
+while (i <= 10) {
+  System.out.println(i);
+  i++;
 }
 ```
 
-<div class="mermaid">
-graph TD
-condition{condition} --> |true| body
-condition --> |false| next("next statement")
-body --> condition
-</div>
+<img src="https://raw.githubusercontent.com/Jellyfish4654/juniorjellies/main/docs/assets/while.PNG" style="width:90%;height:90%;"> 
+
+## Break Statement
+
+A `break` statement causes the program to exit the while loop early.
 
 ```java
-public class Main {
-  public static void main(String[] args) {
-    int i = 0;
-    while (i <= 10) {
-      System.out.println(i);
-      i++;
-    }  
+int i = 0;
+while (i < 10) {
+  System.out.println(i);
+  i++;
+  if (i == 7) {
+    break;
   }
 }
 ```
 
-## Break Statement
-
-```java
-break;
-```
-
-<div class="mermaid">
-graph TD
-condition{condition} --> |true| body
-condition --> |false| next
-body --> condition
-body --> |break| next("next statement")
-</div>
+<img src="https://raw.githubusercontent.com/Jellyfish4654/juniorjellies/main/docs/assets/break.PNG" style="width:90%;height:90%;"> 
 
 ## Continue Statement
 
 ```java
-continue;
+int i = 0;
+while (i < 10) {
+  if (i == 7) {
+    i++;
+    continue;
+  }
+  System.out.println(i);
+  i++;
+}
 ```
 
-<div class="mermaid">
-graph TD
-condition{condition} --> |true| body
-condition --> |false| next
-body --> condition
-body --> |break| next("next statement")
-body --> |continue| condition
-</div>
+<img src="https://raw.githubusercontent.com/Jellyfish4654/juniorjellies/main/docs/assets/continue.PNG" style="width:90%;height:90%;"> 

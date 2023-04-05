@@ -27,12 +27,7 @@ if (condition) {
 // next statement
 ```
 
-<div class="mermaid">
-graph TD
-condition{"condition"} --> |true| body["body"]
-condition --> |false| next("next statement")
-body --> next
-</div>
+<img src="https://raw.githubusercontent.com/Jellyfish4654/juniorjellies/main/docs/assets/if-statement.PNG" style="width:90%;height:90%;"> 
 
 ## The else Statement
 An `else` statement is executed if the condition of the associated if statement is `false`.
@@ -46,13 +41,7 @@ if (condition) {
 // next statement
 ```
 
-<div class="mermaid">
-graph TD
-condition{"condition"} --> |true| body["if body"]
-condition --> |false| else["else body"]
-else --> next("next statement")
-body --> next
-</div>
+<img src="https://raw.githubusercontent.com/Jellyfish4654/juniorjellies/main/docs/assets/else-statement.PNG" style="width:90%;height:90%;"> 
 
 ## The else if Statement
 The body of an `else if` clause is executed if the condition of the associated `if` statement is `false` and the condition of the `else if` clause is `true`.
@@ -65,15 +54,7 @@ if (condition1) {
 }
 ```
 
-<div class="mermaid">
-graph TD
-cond1{"condition1"} --> |true| if["if body"]
-cond1 --> |false| cond2
-cond2{"condition2"} --> |true| elif["else if body"]
-cond2 --> |false| next("next statement")
-if --> next
-elif --> next
-</div>
+<img src="https://raw.githubusercontent.com/Jellyfish4654/juniorjellies/main/docs/assets/else-if-statement.PNG" style="width:90%;height:90%;"> 
 
 `else if` clauses can be chained. At the end of the chain, an optional `else` clause can be present.
 

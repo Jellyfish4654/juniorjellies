@@ -10,16 +10,15 @@ Please go to [Replit](https://replit.com/) and create an account. Create a Repl 
 To print a statement:
 
 ```java
-class Main{
-	public static void main(String[] args){
-		System.out.println("Junior Jellies Java!");
-	}
+class Main {
+    public static void main(String[] args) {
+        System.out.println("Junior Jellies Java!");
+    }
 }
 ```
 
 :::tip Note
-You need to end statements with `;` to complete the statement;  
-Try it yourself!
+You need to end statements with `;` to complete the statement;
 :::
 
 ## Comments
@@ -68,15 +67,15 @@ The only exception to this convention is for loop counter variables such as `i`,
 Type casting is when you assign a value of one primitive data type to another type.  Casting is done by placing the type in parentheses in front of the value.
 
 ```java
-public class Main {
-  public static void main(String[] args) {
-    double double1 = 9.32;
-    int int1 = (int) double1; // Manual casting: double to int
-	double double2 = (double) int1;
-    System.out.println(double1);   // Outputs 9.32
-    System.out.println(myInt);      // Outputs 9
-	System.out.println(double2);   // Outputs 9.0
-  }
+class Main {
+    public static void main(String[] args) {
+        double double1 = 9.32;
+        int int1 = (int) double1; // Manual casting: double to int
+        double double2 = (double) int1;
+        System.out.println(double1); // Outputs 9.32
+        System.out.println(myInt); // Outputs 9
+        System.out.println(double2); // Outputs 9.0
+    }
 }
 ```
 
@@ -85,11 +84,11 @@ public class Main {
 Use the `+` Operator to join multiple strings or variables together
 
 ```java
-public class Main {
-  public static void main(String[] args) {
-    String message = “Hello, welcome to”;
-    System.out.println(message + “ Junior Jellies!”);
-  }
+class Main {
+    public static void main(String[] args) {
+        String message = "Hello, welcome to";
+        System.out.println(message + " Junior Jellies!");
+    }
 }
 ```
 
@@ -120,15 +119,15 @@ new Scanner(System.in)
 | nextDouble |  Reads a double value from the user |
 
 ```java
-import java.util.Scanner;  // Import the Scanner class
+import java.util.Scanner; // Import the Scanner class
 
 class Main {
-  public static void main(String[] args) {
-    Scanner in = new Scanner(System.in);  // Create a Scanner object
-    System.out.println("Enter an integer");
-    int input = in.nextInt();  // Read user input
-    System.out.println("The user inputed "+input);  // Output user input
-  }
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in); // Create a Scanner object
+        System.out.println("Enter an integer");
+        int input = in.nextInt(); // Read user input
+        System.out.println("The user inputed " + input); // Output user input
+    }
 }
 ```
 
