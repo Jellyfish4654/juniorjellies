@@ -33,7 +33,7 @@ function sidebarJava() {
           link: '/java/getting-started',
           items: [
             {
-              text: 'Exercises',
+              text: 'Getting Started Exercises',
               link: '/java/d1-exercises',
             }
           ]
@@ -43,7 +43,7 @@ function sidebarJava() {
           link: '/java/methods',
           items: [
             {
-              text: 'Exercises',
+              text: 'Methods Exercises',
               link: '/java/d2-exercises',
             }
           ]
@@ -53,7 +53,7 @@ function sidebarJava() {
           link: '/java/conditional-statements',
           items: [
             {
-              text: 'Exercises',
+              text: 'Conditional Statements Exercises',
               link: '/java/d3-exercises',
             }
           ]
@@ -63,8 +63,18 @@ function sidebarJava() {
           link: '/java/loops',
           items: [
             {
-              text: 'Exercises',
+              text: 'Loops Exercises',
               link: '/java/d4-exercises',
+            }
+          ]
+        },
+        {
+          text: 'Arrays',
+          link: '/java/arrays',
+          items: [
+            {
+              text: 'Arrays Exercises',
+              link: '/java/d5-exercises',
             }
           ]
         }
