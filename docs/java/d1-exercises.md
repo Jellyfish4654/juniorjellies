@@ -29,7 +29,7 @@ Enter an integer with 3 digits.
 123 // User input
 321
 ```
-::: detail Hint:
+::: details Hint:
 Use the / and % operators to reverse the order of the digits.
 :::
 

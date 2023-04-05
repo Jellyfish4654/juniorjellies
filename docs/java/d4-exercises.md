@@ -29,7 +29,7 @@ I love junior Jellies! // User input
 !seilleJ roinuj evol I
 ```
 
-::: detail Hint:
+::: details Hint:
 Look back to day 3 for String Methods
 :::
 
