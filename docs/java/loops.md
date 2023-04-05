@@ -11,7 +11,7 @@ while (i <= 10) {
 }
 ```
 
-<img src="https://raw.githubusercontent.com/Jellyfish4654/juniorjellies/main/docs/assets/while.PNG" style="width:20%;height:20%;"> 
+<img src="https://raw.githubusercontent.com/Jellyfish4654/juniorjellies/main/docs/assets/while.PNG" style="width:50%;height:50%;"> 
 
 ## Break Statement
 
