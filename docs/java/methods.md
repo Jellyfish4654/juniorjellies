@@ -26,6 +26,10 @@ class Main {
 }
 ```
 
+::: tip Output:
+Prints a random integer from 1-10.
+:::
+
 ## String Methods
 
 | Method | What it does | Notes |

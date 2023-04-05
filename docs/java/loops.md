@@ -22,11 +22,19 @@ int i = 0;
 while (i < 10) {
   System.out.println(i);
   i++;
-  if (i == 7) {
+  if (i == 4) {
     break;
   }
 }
 ```
+
+::: tip Output:
+0  
+1  
+2  
+3  
+4
+:::
 
 <img src="https://raw.githubusercontent.com/Jellyfish4654/juniorjellies/main/docs/assets/break.PNG" style="width:20%;height:20%;"> 
 
@@ -34,8 +42,8 @@ while (i < 10) {
 
 ```java
 int i = 0;
-while (i < 10) {
-  if (i == 7) {
+while (i < 6) {
+  if (i == 2) {
     i++;
     continue;
   }
@@ -43,5 +51,13 @@ while (i < 10) {
   i++;
 }
 ```
+
+::: tip Output:
+0  
+1  
+3  
+4 
+5
+:::
 
 <img src="https://raw.githubusercontent.com/Jellyfish4654/juniorjellies/main/docs/assets/continue.PNG" style="width:20%;height:20%;"> 

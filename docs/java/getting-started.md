@@ -131,6 +131,10 @@ class Main {
 }
 ```
 
+::: tip Output:
+Asks the user to input an integer outputs an integer
+:::
+
 ## Arithmetic Operators
 
 Arithmetic operators are used to perform common mathematical operations.
