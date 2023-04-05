@@ -89,3 +89,10 @@
   --docsearch-primary-color: var(--vp-c-brand) !important;
 }
 
+.mermaid {
+  text-align: center; }
+.mermaid:not([data-processed]) {
+  display: none; }
+.mermaid svg {
+  background: #e5e9f0;
+}

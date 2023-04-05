@@ -1,4 +1,4 @@
-# Day 1 Exercises
+# Exercises
 
 1. Write a program that prompts the user their first and last name. The program should output their name.  
 Output:

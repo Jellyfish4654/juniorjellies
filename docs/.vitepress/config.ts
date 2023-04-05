@@ -33,8 +33,38 @@ function sidebarJava() {
           link: '/java/getting-started',
           items: [
             {
-              text: 'Day 1 Exercises',
+              text: 'Exercises',
               link: '/java/d1-exercises',
+            }
+          ]
+        },
+        {
+          text: 'Methods',
+          link: '/java/methods',
+          items: [
+            {
+              text: 'Exercises',
+              link: '/java/d2-exercises',
+            }
+          ]
+        },
+        {
+          text: 'Conditional Statements',
+          link: '/java/conditional-statements',
+          items: [
+            {
+              text: 'Exercises',
+              link: '/java/d3-exercises',
+            }
+          ]
+        },
+        {
+          text: 'Loops',
+          link: '/java/loops',
+          items: [
+            {
+              text: 'Exercises',
+              link: '/java/d4-exercises',
             }
           ]
         }
