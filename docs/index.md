@@ -11,7 +11,7 @@ hero:
      - theme: brand
       text: About Us
       link: /mission-statement
-    - theme: alt
+     - theme: alt
       text: Curriculum 
       link: /java/getting-started
 ---
