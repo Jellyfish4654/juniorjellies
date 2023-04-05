@@ -1,6 +1,6 @@
 # Setting Up
 
-Please go to [Replit](https://replit.com/) and create an account. Create a Repl and select Java as the template.
+Please go to [Replit](https://replit.com/) and create an account. Create a Repl and select `Java` as the template.
 
 <img src="https://raw.githubusercontent.com/Jellyfish4654/juniorjellies/main/docs/assets/createTemplate.png" style="width:90%;height:90%;"> 
 

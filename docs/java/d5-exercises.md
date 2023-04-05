@@ -1,6 +1,6 @@
 # Exercises
 
-1. Write a program that generates 5 random integers between 1 and 10 and stores them in an array. Use a for loop to fill each element of the array with a randomly generated integer. Then, use another for loop to output each element of the array. Additionally, the program should output the sum of the integers
+1. Write a program that generates 5 random integers between 1 and 10 and stores them in an array. Use a for loop to fill each element of the array with a randomly generated integer. Then, use another for loop to output each element of the array. Additionally, the program should output the sum of the integers.  
 Output:
 ```
 5  
