@@ -17,7 +17,8 @@ export default defineConfig({
 
 function nav() {
   return [
-    { text: 'Guide', link: '/java/markdown-examples', activeMatch: '/java/' },
+    { text: 'Java', link: '/java/getting-started', activeMatch: '/java/' },
+    { text: 'Mission Statement', link: '/mission-statement', activeMatch: '/mission-statement' },
   ]
 }
 
@@ -27,7 +28,7 @@ function sidebarJava() {
       text: 'Java Lessons',
       collapsed: false,
       items: [
-        { text: 'Getting Started', link: '/java/markdown-examples' }
+        { text: 'Getting Started', link: '/java/getting-started' }
       ]
     },
   ]
