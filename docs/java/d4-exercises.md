@@ -28,7 +28,7 @@ I love junior Jellies! //User input
 !seilleJ roinuj evol I
 ```
 > Hint: Look back to day 3 for String Methods
-3. Write a program that prompts the user to enter a word.  The program should output whether or not the word is a palindrome.  A palindrome is a word that spelled the same forwards and backwards.  For example `dad` and `racecar` are palindromes.  Your program should allow for differences in capitalization.  For example, `Level` should be considered a palindrome.  
+4. Write a program that prompts the user to enter a word.  The program should output whether or not the word is a palindrome.  A palindrome is a word that spelled the same forwards and backwards.  For example `dad` and `racecar` are palindromes.  Your program should allow for differences in capitalization.  For example, `Level` should be considered a palindrome.  
 Output 1:
 ```
 Please enter a word.
@@ -39,4 +39,30 @@ java is not a palindrome.
 Please enter a word.
 Kayak (user)
 Kayak is a palindrome.
+```
+5. Write a program that allows a user to play a game of rock-paper-scissors against a computer. The program should prompt the user to enter their choice (rock, paper, or scissors), generate a random choice for the computer, compare the two choices to determine the winner, and display the result. Make sure to handle invalid user input.
+Output:
+```
+Enter “rock”, “paper”, or “scissor”
+scissor //user input
+Both players selected scissors. It’s a tie!
+Enter “rock”, “paper”, or “scissor”
+rock //user input
+Rock smashes scissors! You win!"
+```
+6. Create a number guessing game where the user has to guess a random number between 1 and 100. The game should tell the user if their guess is too high or too low, and keep track of the number of tries it takes for the user to guess the correct number.  
+Output:
+```
+Enter a number.
+50
+Too low
+Enter a number.
+75
+Too high
+Enter a number.
+60
+Too high
+Enter a number.
+54
+Correct! It took you four tries
 ```
