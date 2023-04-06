@@ -2,11 +2,12 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 title: Home
-heroImage:
-    src: "https://raw.githubusercontent.com/Jellyfish4654/juniorjellies/main/docs/assets/logo.png"
 hero:
   name: "Junior Jellies"
-  tagline: Presented by FTC Team 4654 Jellyfish
+  text: Proudly Presented by
+  tagline: FTC Team 4654 Jellyfish
+  image:
+    src: "https://raw.githubusercontent.com/Jellyfish4654/juniorjellies/main/docs/assets/logo.png"
   actions:
     - theme: brand
       text: About Us
