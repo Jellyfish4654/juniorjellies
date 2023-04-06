@@ -50,18 +50,18 @@
     #88C0D0 50%,
     #88C0D0 50%
   );
-  --vp-home-hero-image-filter: blur(20px);
+  --vp-home-hero-image-filter: blur(15px);
 }
 
 @media (min-width: 640px) {
   :root {
-    --vp-home-hero-image-filter: blur(28px);
+    --vp-home-hero-image-filter: blur(21px);
   }
 }
 
 @media (min-width: 960px) {
   :root {
-    --vp-home-hero-image-filter: blur(36px);
+    --vp-home-hero-image-filter: blur(27px);
   }
 }
 
