@@ -8,8 +8,7 @@ hero:
   name: "Junior Jellies"
   tagline: Presented by FTC Team 4654 Jellyfish
   image:
-    src: /logo.png
-    alt: VitePress
+    link: "https://raw.githubusercontent.com/Jellyfish4654/juniorjellies/main/docs/assets/logo.png"
   actions:
     - theme: brand
       text: About Us
