@@ -4,7 +4,7 @@ layout: home
 title: Home
 hero:
   name: "Junior Jellies"
-  text: Proudly Presented by
+  text: Presented by
   tagline: FTC Team 4654 Jellyfish
   image:
     src: "https://raw.githubusercontent.com/Jellyfish4654/juniorjellies/main/docs/assets/logo.png"
