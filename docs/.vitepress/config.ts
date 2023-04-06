@@ -6,7 +6,7 @@ export default defineConfig({
   description: "Presented by FTC Team #4654 Jellyfish",
   base: '/juniorjellies/',
   head: [
-    ['link', { rel: "icon", href: "/assets/favicon.ico"}],
+    ['link', { rel: "icon", href: "https://raw.githubusercontent.com/Jellyfish4654/juniorjellies/main/docs/assets/favicon.ico"}],
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
