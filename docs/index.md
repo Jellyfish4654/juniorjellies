@@ -3,10 +3,11 @@
 layout: home
 
 title: Home
-heroImage: /assets/logo.png
 hero:
   name: "Junior Jellies"
   tagline: Presented by FTC Team 4654 Jellyfish
+  image:
+    link: "https://raw.githubusercontent.com/Jellyfish4654/juniorjellies/main/docs/assets/logo.png"
   actions:
     - theme: brand
       text: About Us
