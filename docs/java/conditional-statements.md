@@ -24,7 +24,6 @@ An `if` statement executes its body, if a given boolean expression, called the c
 if (condition) {
     // body
 }
-// next statement
 ```
 
 <img src="https://raw.githubusercontent.com/Jellyfish4654/juniorjellies/main/docs/assets/if-statement.PNG" style="width:50%;height:50%;"> 
@@ -38,7 +37,6 @@ if (condition) {
 } else {
 	// else body
 }
-// next statement
 ```
 
 <img src="https://raw.githubusercontent.com/Jellyfish4654/juniorjellies/main/docs/assets/else-statement.PNG" style="width:50%;height:50%;"> 
