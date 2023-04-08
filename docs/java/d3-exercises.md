@@ -23,7 +23,7 @@ Your average is 93.5.
 Great Job!
 :::
 
-1. Write a program that prompts the user to enter two test grades.  The program should average the grades and output the average and the letter grade associated with the number. Use A for 90’s, B for 80’s, C for 70’s, D for 65-69, and F for <65.  
+3. Write a program that prompts the user to enter two test grades.  The program should average the grades and output the average and the letter grade associated with the number. Use A for 90’s, B for 80’s, C for 70’s, D for 65-69, and F for <65.  
 
 ::: tip Output:
 Enter your 2 test grades.  
