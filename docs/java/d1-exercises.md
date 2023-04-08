@@ -37,8 +37,8 @@ Use the / and % operators to reverse the order of the digits.
 :::
 
 4. Write a program that prompts the user to enter the length and width of a rectangle as integers.  The program should output the perimeter and area of the rectangle.  
-Output:
-```
+
+::: tip Output:
 Enter the length of the rectangle.  
 7 // User input  
 Enter the width of the rectangle.  
