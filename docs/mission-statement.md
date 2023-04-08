@@ -1,4 +1,6 @@
-# Junior Jellies
+# Mission Statement
+
+## Junior Jellies
 
 Over the years, our team has flourished by organizing and facilitating Junior Jellies, a student-centered and self-run afterschool program focused on STEM, specifically introducing elementary school students to FIRST. Our primary objective is to instill FIRST principles, such as Gracious Professionalism and Coopetition, which promote friendly competition and positive collaboration, within Blind Brook students. We aspire to equip these students with the necessary skills to become successful, both as potential Jellyfish members and as lifelong learners. Our ultimate goal is to expand our impact within the community by inspiring the next generation to take an active interest in STEM.
 
@@ -26,7 +28,7 @@ Overall, Junior Jellies Java is an excellent opportunity for middle school stude
 
 ## Legacy Junior Jellies Programs
 
-- **Junior Jellies Robotics**
+### Junior Jellies Robotics
 
 Junior Jellies Robotics was our team’s first Junior Jellies program. The curriculum was modeled after  [FLL (FIRST LEGO League)](https://www.firstinspires.org/robotics/fll) using LEGO Robotics, offering a challenge similar to those issued in FLL and allowing Junior Jellies to work on their robot over the course of seven weeks. On the final day of the program, students competed with their robots, vying for awards in various categories that closely mirrored those of FLL competitions.
 
@@ -34,6 +36,6 @@ Junior Jellies Robotics provided an excellent opportunity for students to develo
 
 In addition to promoting STEM education, Junior Jellies Robotics served as a means for our team to connect with younger students in our community, fostering a passion for STEM and encouraging students to explore their interests in related fields. Overall, we are proud to have launched our first Junior Jellies program with such great success, and we remain committed to offering programs that inspire the next generation of STEM leaders.
 
-- **Junior Jellies Python**
+### Junior Jellies Python
 
 During the 2020-21 school year with the pandemic, we created the Junior Jellies Python program to teach middle school students basic fundalmentals about Python. This was an ideal  way to virtually connect with our community and fundraise for the team. The highlight of both programs is their staggered curriculum developed to scaffold and accommodate students with varied coding experience. This program has been replaced by Junior Jellies Java. By introducing Java to the district’s students before they enter high school, we hope to garner more interest in programming for the robotics team. In the past, we have struggled with finding programmers as team members had little to no experience coding  due to a lack of experience and exposure. 
