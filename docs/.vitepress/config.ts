@@ -11,6 +11,7 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: nav(),
+    logo: 'https://raw.githubusercontent.com/Jellyfish4654/juniorjellies/main/docs/assets/logo.png',
     sidebar: {
       '/java/': sidebarJava()
     },

@@ -1,4 +1,8 @@
 # Methods
+
+To begin, please log in to [Replit](https://replit.com/).
+
+## Methods
 A method is a block of code that runs when it is called to perform a function. The Math class has many methods built into Java that allows you to perform mathematical functions.
 
 ## Math Methods

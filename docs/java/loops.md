@@ -1,5 +1,7 @@
 # Loops
 
+To begin, please log in to [Replit](https://replit.com/).
+
 ## While Loops
 
 A `while` loop repeatedly executes a set of statements until a given condition becomes `false`.

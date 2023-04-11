@@ -1,4 +1,9 @@
 # Arrays
+
+To begin, please log in to [Replit](https://replit.com/).
+
+## Arrays
+
 Arrays are a fundamental data structure in Java that enable you to store multiple values of the same data type in a single variable. This provides a more efficient and organized approach to managing data than declaring separate variables for each value.
 
 To create an array in Java, you can use the following syntax:  
