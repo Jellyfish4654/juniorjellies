@@ -3,9 +3,12 @@
 To begin, please log in to [Replit](https://replit.com/).
 
 ## Methods
-A method is a block of code that runs when it is called to perform a function. The Math class has many methods built into Java that allows you to perform mathematical functions.
+
+A method is a block of code that runs when it is called to perform a function. People familiar with other languages may recognize similarities to functions, however, methods in programming are more object-oriented.
 
 ## Math Methods
+
+The Java Math class offers numerous methods to perform mathematical tasks on numbers.
 
 | Method | What it does | Notes |
 |---|---|---|
@@ -35,6 +38,8 @@ Prints a random integer from 1-10.
 :::
 
 ## String Methods
+
+The String class offers built-in methods for manipulating strings.
 
 | Method | What it does | Notes |
 |---|---|---|

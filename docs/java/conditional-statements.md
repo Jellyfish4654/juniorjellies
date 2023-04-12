@@ -3,6 +3,7 @@
 To begin, please log in to [Replit](https://replit.com/).
 
 ## Boolean
+
 A `boolean` is a data type that has two possible values: `true` and `false`.
 
 **Boolean Operators**
@@ -17,7 +18,7 @@ A `boolean` is a data type that has two possible values: `true` and `false`.
 | > | Greater than | x > y |
 | < | Less than | x < y |
 | >= | Greater than or equal to | x >= y |
-| < | Less than or equal to | x <= y |
+| <= | Less than or equal to | x <= y |
 
 ## The if Statement
 An `if` statement executes its body, if a given boolean expression, called the condition, is `true`.

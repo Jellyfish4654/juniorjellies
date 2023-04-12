@@ -49,6 +49,20 @@ comment multiple lines */
 There are additional primitive data types, not stated here. They are used to optimize memory use, however, doubles and integers are generally used for calculations.
 :::
 
+## Arithmetic Operators
+
+Arithmetic operators are used to perform common mathematical operations.
+
+| Operator  |  Name  |  What it does |  Examples |
+|---|---|---|---|
+| + |  Addition  |  Add together two values  |  x + y |
+| - |  Subtraction |  Subtracts one value from another  |  x - y  |
+| * |  Multiplication |  Multiplies two values  |  x * y |
+| / |  Division |  Divides one value by another  |  x / y |
+| % |  Modulus |  Returns the division remainder  |  x % y |
+| ++ |  Increment |  Increases the value of a variable by 1  |  x++ |
+| -- |  Decrement |  Decreases the value of a variable by 1 |  x\-\- |
+
 ## Variables
 
 `Variables` are containers for storing data types.
@@ -72,12 +86,18 @@ class Main {
         double double1 = 9.32;
         int int1 = (int) double1; // Manual casting: double to int
         double double2 = (double) int1;
-        System.out.println(double1); // Outputs 9.32
-        System.out.println(myInt); // Outputs 9
-        System.out.println(double2); // Outputs 9.0
+        System.out.println(double1);
+        System.out.println(myInt);
+        System.out.println(double2);
     }
 }
 ```
+
+::: tip Output:
+9.32  
+9  
+9.0
+:::
 
 ## String Concatenation
 
@@ -134,17 +154,3 @@ class Main {
 ::: tip Output:
 Asks the user to input an integer outputs an integer
 :::
-
-## Arithmetic Operators
-
-Arithmetic operators are used to perform common mathematical operations.
-
-| Operator  |  Name  |  What it does |  Examples |
-|---|---|---|---|
-| + |  Addition  |  Add together two values  |  x + y |
-| - |  Subtraction |  Subtracts one value from another  |  x - y  |
-| * |  Multiplication |  Multiplies two values  |  x * y |
-| / |  Division |  Divides one value by another  |  x / y |
-| % |  Modulus |  Returns the division remainder  |  x % y |
-| ++ |  Increment |  Increases the value of a variable by 1  |  x++ |
-| -- |  Decrement |  Decreases the value of a variable by 1 |  x\-\- |
